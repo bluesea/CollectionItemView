@@ -12,6 +12,7 @@
  *  多少行
  */
 @property (nonatomic, assign) IBInspectable NSInteger numOfSection;
-截图:
+
+## 截图:
 ![image](./snapshot.png)
 
